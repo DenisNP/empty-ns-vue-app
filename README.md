@@ -1,6 +1,6 @@
 This is a repo with bug reproduction.
 
-Follow there commands:
+Follow these commands:
 ```powershell
 > vue init nativescript-vue/vue-cli-template empty-ns-vue-app
 
