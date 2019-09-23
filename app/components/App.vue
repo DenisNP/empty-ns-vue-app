@@ -14,6 +14,7 @@
                 <Label class="drawer-item" text="Item 1"/>
                 <Label class="drawer-item" text="Item 2"/>
                 <Label class="drawer-item" text="Item 3"/>
+                <Button text="Button" />
             </StackLayout>
 
             <GridLayout ~mainContent columns="*" rows="*">
