@@ -28,3 +28,5 @@ Follow these commands:
 > npm install
 > tns preview
 ```
+
+[Log after that](https://gist.github.com/DenisNP/3295573f3db80cdb59e15ada2982fea4)
