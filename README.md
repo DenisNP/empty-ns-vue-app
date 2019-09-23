@@ -1,23 +1,30 @@
-# NativeScript-Vue Application
+This is a repo with bug reproduction.
 
-> A native application built with NativeScript-Vue
+Follow there commands:
+```powershell
+> vue init nativescript-vue/vue-cli-template empty-ns-vue-app
 
-## Usage
+? Project name empty-ns-vue-app
+? Project description A native application built with NativeScript-Vue
+? Application name NativeScript-Vue Application
+? Unique application identifier org.nativescript.application
+? Project version 1.0.0
+? Author ...
+? License MIT
+? Select the programming language typescript
+? Select a preset (more coming soon) SideDrawer
+? Install vuex? (state management) Yes
+? Install vue-devtools? No
+? Color scheme orange
 
-``` bash
-# Install dependencies
-npm install
-
-# Preview on device
-tns preview
-
-# Build, watch for changes and run the application
-tns run
-
-# Build, watch for changes and debug the application
-tns debug <platform>
-
-# Build for production
-tns build <platform> --env.production
-
+   vue-cli · Generated "empty-ns-vue-app".
+   vue-cli · cd empty-ns-vue-app
+   vue-cli · npm install
+   vue-cli · tns preview
+   vue-cli · # or
+   vue-cli · tns run
+   
+> cd .\empty-ns-vue-app\
+> npm install
+> tns preview
 ```
